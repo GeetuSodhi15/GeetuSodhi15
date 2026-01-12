@@ -1,26 +1,26 @@
 ## Hi, I'm Geetu Sodhi
 
-# 👋 Hi, I'm Geetu Sodhi
+# Hi, I'm Geetu Sodhi
 
 **_Data Analyst | Technical Instructor | Workflow Automation Specialist_**  
 📍 *Based in Toronto, Canada*  
-📫 Email: [geetusodhi84@gmail.com](mailto:geetusodhi84@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/geetusodhi](https://linkedin.com/in/geetusodhi)
+ Email: [geetusodhi84@gmail.com](mailto:geetusodhi84@gmail.com)  
+ LinkedIn: [linkedin.com/in/geetusodhi](https://linkedin.com/in/geetusodhi)
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I’m a passionate **Technical Instructor** and **Data Analyst** with **10+ years of experience** across education, banking, and tech.
 
 Currently empowering learners at **NPower Canada** with skills in **Python, SQL, Power BI**, and **Excel** — helping them break into tech with confidence.
 
-💡 I specialize in building **data-driven solutions** to automate workflows and enhance decision-making — reducing manual reporting by up to **90%**.  
-🔍 My strength lies in **explaining complex technical concepts simply**, and in designing **end-to-end analytics systems** using Python, Power Automate, and cloud tools.
+ I specialize in building **data-driven solutions** to automate workflows and enhance decision-making — reducing manual reporting by up to **90%**.  
+ My strength lies in **explaining complex technical concepts simply**, and in designing **end-to-end analytics systems** using Python, Power Automate, and cloud tools.
 
 ---
 
-## 🧠 Areas of Expertise
+## Areas of Expertise
 
 **Languages & Tools:**  
 `Python` (Pandas, NumPy, Matplotlib), `SQL`, `Excel`, `Power BI`, `JavaScript`, `C++`
@@ -39,22 +39,22 @@ Technical mentoring, 1:1 coaching, stakeholder presentations, mock interviews
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🎓 Student Progress Dashboard Automation  
 > Automated student performance tracking using Python & XlsxWriter.  
 > Reduced manual reporting time by **90%**. Directly compatible with Blackboard uploads.
 
-### 📧 Bulk Email & Certificate Automation  
+### Bulk Email & Certificate Automation  
 > Used Python + Power Automate to send bulk emails and generate personalized Coursera certificates.  
 > Scaled across multiple cohorts.
 
-### 📊 SQL for Performance Analysis  
+### SQL for Performance Analysis  
 > Analyzed training data (demographics, outcomes) to uncover trends and suggest interventions for student success.
 
 ---
 
-## 📚 What I'm Teaching Right Now
+## What I'm Teaching Right Now
 
 - IBM Data Analyst Certificate Curriculum  
 - Microsoft Azure & AI Fundamentals (AZ-900 & AI-900)  
@@ -68,7 +68,7 @@ Technical mentoring, 1:1 coaching, stakeholder presentations, mock interviews
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 If you're looking to:
 
