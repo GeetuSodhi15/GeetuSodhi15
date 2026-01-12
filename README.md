@@ -115,4 +115,4 @@ Feel free to reach out — I love connecting with **data educators**, **bootcamp
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-1DB954?style=for-the-badge&logo=servicenow&logoColor=white)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
