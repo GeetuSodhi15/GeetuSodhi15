@@ -41,7 +41,7 @@ Technical mentoring, 1:1 coaching, stakeholder presentations, mock interviews
 
 ## Featured Projects
 
-### 🎓 Student Progress Dashboard Automation  
+### Student Progress Dashboard Automation  
 > Automated student performance tracking using Python & XlsxWriter.  
 > Reduced manual reporting time by **90%**. Directly compatible with Blackboard uploads.
 
