@@ -113,3 +113,6 @@ Feel free to reach out — I love connecting with **data educators**, **bootcamp
 ![Blackboard](https://img.shields.io/badge/Blackboard-000000?style=for-the-badge&logo=blackboard&logoColor=white)
 ![Schoology](https://img.shields.io/badge/Schoology-002B45?style=for-the-badge&logo=schoology&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-1DB954?style=for-the-badge&logo=servicenow&logoColor=white)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
