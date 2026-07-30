@@ -2,7 +2,7 @@
 
 # Hi, I'm Geetu Sodhi
 
-**_Data Analyst | Technical Instructor | Workflow Automation Specialist_**  
+** Learning & Development Professional| Technical Instructor | Data Professional | Workflow Automation Specialist_**  
 📍 *Based in Toronto, Canada*  
  Email: [geetusodhi84@gmail.com](mailto:geetusodhi84@gmail.com)  
  LinkedIn: [linkedin.com/in/geetusodhi](https://linkedin.com/in/geetusodhi)
