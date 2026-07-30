@@ -11,13 +11,13 @@
 
 ## About Me
 
-I’m a passionate **Technical Instructor** and **Data Analyst** with **10+ years of experience** across education, banking, and tech.
+I am a passionate **Learning and Development professional** and **Learning Experience Designer** with **10+ years of experience** across education, technology, and business environments.
 
-Currently empowering learners at **NPower Canada** with skills in **Python, SQL, Power BI**, and **Excel** — helping them break into tech with confidence.
+Currently, I design, deliver, and continuously improve **learner-centered development programs** at **NPower Canada**, empowering diverse adult learners through **blended learning experiences** in areas such as **data analytics, cloud computing, AI, and emerging technologies**.
 
- I specialize in building **data-driven solutions** to automate workflows and enhance decision-making — reducing manual reporting by up to **90%**.  
- My strength lies in **explaining complex technical concepts simply**, and in designing **end-to-end analytics systems** using Python, Power Automate, and cloud tools.
+I specialize in **instructional design, curriculum development, adult learning principles, assessment design, and learning technologies**, creating engaging learning journeys that help individuals build practical skills and achieve measurable outcomes.
 
+My strength lies in **transforming complex concepts into accessible learning experiences**, leveraging **learner analytics, digital tools, and automation** to improve learning operations, enhance learner engagement, and continuously optimize program effectiveness.
 ---
 
 ## Areas of Expertise
